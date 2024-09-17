@@ -26,6 +26,7 @@ They mainly differ in 2 aspects:
 * Opensearch
 * DeepLake
 * MyScale
+* DocArray
 
 ### Others
 * ChatGPTRetrievalPlugin
@@ -53,5 +54,8 @@ maxdepth: 1
 ../../examples/vector_stores/WeaviateIndexDemo-Hybrid.ipynb
 ../../examples/vector_stores/PineconeIndexDemo-Hybrid.ipynb
 ../../examples/vector_stores/AsyncIndexCreationDemo.ipynb
+../../examples/vector_stores/SupabaseVectorIndexDemo.ipynb
+../../examples/vector_stores/DocArrayHnswIndexDemo.ipynb
+../../examples/vector_stores/DocArrayInMemoryIndexDemo.ipynb
 ```
 
